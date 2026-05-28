@@ -1,0 +1,17 @@
+# Segredos — NUNCA commitar
+.env
+
+# Ficheiros de debug
+teste_db.php
+
+# Logs
+*.log
+/logs/
+
+# Dependências
+/vendor/
+node_modules/
+
+# Sistema
+.DS_Store
+Thumbs.db
